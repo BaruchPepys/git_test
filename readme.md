@@ -1,0 +1,1 @@
+This is BaruchSpinoza's first Git project!
